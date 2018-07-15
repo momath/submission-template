@@ -1,11 +1,11 @@
-# MoMath Hackathon 2017: Project name
+# MoMath Hackathon 2018: Project name
 
-- Project category (one of _Math Square behavior_, _Dynamic Wall behavior_, or _Math Exploration_)
+- Project category (one of Augmented Reality, _Math Square behavior_, _Dynamic Wall behavior_, or _Math Exploration_)
 - Team members
 
 ## The Math
 
-A brief description of the mathematical concepts or ways of thinking that you have drawn upon in your submission.
+A brief description of the mathematical concepts or modes of thinking that you have drawn upon in your submission.
 
 ## The Submission
 
